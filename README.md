@@ -1,2 +1,2 @@
-# UnsupervisedImageSegmentationWithMixtureModelsAndMarkovRandomFields
-Code used to obtain results in our currently under revision manuscript "A guide to unsupervised image segmentation of mCT-scanned cellular metal materials with mixture modelling and Markov random fields"
+# Unsupervised Image Segmentation With Mixture Models And Markov Random Fields
+The code was used to obtain the results in our manuscript "A guide to unsupervised image segmentation of mCT-scanned cellular metal materials with mixture modelling and Markov random fields" by Branislav Panić, Matej Borovinšek, Matej Vesenjak, Simon Oman and Marko Nagode, which is currently under revision in Materials&Design.
